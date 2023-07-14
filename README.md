@@ -1,5 +1,5 @@
 # externalC2Client   
-External C2 Client 免杀效果自测。 
+External C2 Client , 免杀效果自测。 
 ## 配置   
 第一步: Cobalt Strike listeners新建External C2 listener;   
 第二步: 填写端口;   

@@ -12,8 +12,10 @@ External C2 Client 免杀效果自测。
 ### Windows编译
 1. go build -ldflags="-w -s" -ldflags="-H windowsgui" main.go
 ## 效果
-![效果.png](https://github.com/Ed1s0nZ/externalC2Client/blob/main/%E6%95%88%E6%9E%9C.png?raw=true)
+<img src="https://github.com/Ed1s0nZ/externalC2Client/blob/main/%E6%95%88%E6%9E%9C.png" width="100px">
+<!-- ![效果.png](https://github.com/Ed1s0nZ/externalC2Client/blob/main/%E6%95%88%E6%9E%9C.png?raw=true) -->
 ## 持续更新中，更新频率看star数量🐕。
 # 声明：仅用于技术交流，请勿用于非法用途。
 
 
+https://github.com/Ed1s0nZ/externalC2Client/blob/main/%E6%95%88%E6%9E%9C.png

@@ -10,7 +10,8 @@ External C2 Client , 免杀效果自测。
 第一步: brew install mingw-w64   
 第二步: GOOS=windows GOARCH=amd64 CC=/opt/homebrew/Cellar/mingw-w64/11.0.0/bin/x86_64-w64-mingw32-gcc CGO_ENABLED=1 go build -ldflags="-w -s" -ldflags="-H windowsgui" main.go   
 ### Windows编译   
-第一步: go build -ldflags="-w -s" -ldflags="-H windowsgui" main.go   
+第一步: 安装mingw64环境   
+第二步: go build -ldflags="-w -s" -ldflags="-H windowsgui" main.go   
 ## 效果   
 <img src="https://github.com/Ed1s0nZ/externalC2Client/blob/main/%E6%95%88%E6%9E%9C.png" width="500px">   
 

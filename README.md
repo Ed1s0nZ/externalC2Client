@@ -13,7 +13,7 @@ External C2 Client , 免杀效果自测。
 第一步: 安装mingw64环境   
 第二步: go build -ldflags="-w -s" -ldflags="-H windowsgui" main.go   
 ## 效果   
-<img src="https://github.com/Ed1s0nZ/externalC2Client/blob/main/%E6%95%88%E6%9E%9C.png" width="500px">   
+<img src="https://github.com/Ed1s0nZ/InfiltrateX/blob/main/Web%E7%95%8C%E9%9D%A2%E5%B1%95%E7%A4%BA.png" width="500px">   
 
 ## 持续更新中，更新频率看star数量🐕。   
 
